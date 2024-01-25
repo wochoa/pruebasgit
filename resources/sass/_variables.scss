@@ -1,0 +1,18 @@
+// Body
+// $body-bg: #f8fafc;
+// $body-font-family:$font-family; 
+
+// Typography
+
+// $font-family: 'Oswald', sans-serif;
+// $font-family: 'Nunito', sans-serif;
+// $font-family: 'Raleway', sans-serif;
+$font-family: 'Fira Sans', sans-serif;
+
+$font-size-base: 0.88rem;
+$line-height-base: 1.6;
+
+*,body{
+   font-family: $font-family; 
+   font-size: $font-size-base;
+}
